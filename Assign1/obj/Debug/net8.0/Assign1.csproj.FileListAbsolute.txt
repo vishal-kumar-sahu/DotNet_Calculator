@@ -12,3 +12,4 @@ C:\Users\vishal.s_INT1587\source\repos\Assign1\Assign1\obj\Debug\net8.0\refint\A
 C:\Users\vishal.s_INT1587\source\repos\Assign1\Assign1\obj\Debug\net8.0\Assign1.pdb
 C:\Users\vishal.s_INT1587\source\repos\Assign1\Assign1\obj\Debug\net8.0\Assign1.genruntimeconfig.cache
 C:\Users\vishal.s_INT1587\source\repos\Assign1\Assign1\obj\Debug\net8.0\ref\Assign1.dll
+C:\Users\vishal.s_INT1587\source\repos\Assign1\Assign1\obj\Debug\net8.0\Assign1.sourcelink.json

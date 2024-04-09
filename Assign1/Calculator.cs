@@ -28,7 +28,7 @@ namespace Assign1
             if(num2 == 0)
             {
                 Console.WriteLine("Cannot Divide by Zero !");
-                return -1;
+                return double.NaN;
             }
 
             return num1 / num2;
